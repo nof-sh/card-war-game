@@ -1,6 +1,7 @@
 # card-war-game
 card war game university project in squeak/smalltalk programming language
 
+_______________________________________________________________
 to run the program:
 WarCardsGame new startGame.
 
